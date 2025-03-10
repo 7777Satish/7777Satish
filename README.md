@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Satish Singh!  
+🚀 Full Stack Web Developer | 💻 CSE Student at SMVDU | ⚡ Passionate about Web Development & AI  
 
-<!--
-**7777Satish/7777Satish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 About Me  
+- 🎯 I build **modern web applications** using **React, Next.js, and Node.js**  
+- 🔍 Exploring **AI & Neural Networks**    
 
-Here are some ideas to get you started:
+### 🌐 Connect With Me  
+[![GitHub](https://img.shields.io/badge/GitHub-7777Satish-black?style=for-the-badge&logo=github)](https://github.com/7777Satish)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://kinglio.netlify.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satish-singh-0x/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 **Check out my projects & let's build something awesome together!**  

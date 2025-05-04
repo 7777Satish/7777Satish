@@ -1,9 +1,9 @@
 # Hi, I'm Satish Singh!  
-Full Stack Web Developer | CSE Student at SMVDU | Passionate about Web Development & AI  
+Full Stack Web Developer | Passionate about Web Development & AI  
 
 ### About Me  
 - I build **modern web applications** using **React, Next.js, and Node.js**  
-- Exploring **AI & Neural Networks**    
+- Exploring **AI & Neural Networks**
 
 ### Connect With Me  
 [![GitHub](https://img.shields.io/badge/GitHub-7777Satish-black?style=for-the-badge&logo=github)](https://github.com/7777Satish)  

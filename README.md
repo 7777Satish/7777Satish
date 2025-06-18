@@ -9,9 +9,6 @@ Full Stack Web Developer | Passionate about Web Development & AI
 [![GitHub](https://img.shields.io/badge/GitHub-7777Satish-black?style=for-the-badge&logo=github)](https://github.com/7777Satish)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satish-singh-0x/)  
 
-### Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=7777Satish&color=blue&style=flat-square)  
-
 ---
 
 **Check out my projects & let's build something awesome together!**  
